@@ -10,6 +10,7 @@ gunicorn = "*"
 django-storages = "*"
 django-crispy-forms = "*"
 django-environ = "*"
+boto3 = "*"
 
 [dev-packages]
 
